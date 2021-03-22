@@ -1,0 +1,247 @@
+body
+{
+    background-color: skyblue;
+    background-repeat: repeat;
+}
+.topnavbar .box-seizing{
+    padding: 25px 30px 25px 30px;
+}
+.topnavbar
+{
+    margin:5px 10px 10px 30px ;
+    box-shadow: 0px 30px 45px 0px blue;
+}
+.topnavbar a
+{
+    color: black(165, 142, 146);
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+}
+.portfolio
+{
+    margin: 30px 45px 45px 30px;
+    background-color:skyblue;
+    background-position: right;
+    box-shadow: 0px 30px 45px 0px blue;
+    padding: 5px 15px 25px 0px;
+    text-align: auto;
+    background-repeat: no-repeat;
+}
+.gallary 
+{   margin: 15px;
+    box-shadow:0px 5px 15px 5px blue;
+    
+}
+
+.portfolio h1
+{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blue;
+    font-weight: 900;
+    text-align: left;
+    margin: 5px;
+
+}
+.portfolio p
+{
+    font-size: 24px;
+    font-family: initial;
+    font-weight:300;
+    text-decoration:wavy;
+    margin:5px;
+    text-indent: inherit;
+}
+.About
+{
+    margin: 30px 45px 45px 30px;
+    background-color: skyblue;
+    box-shadow: 0px 30px 45px 0px blue;
+    padding: 5px 15px 25px 0px;
+    text-align: center;
+}
+.About h2
+{
+    font-size: 26px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    font-weight: 600;
+    margin: 5px;
+    text-align: left;
+}
+.About p
+{
+    font-size: 24px;
+    font-family: initial;
+    font-weight:300;
+    text-decoration:wavy;
+    margin:5px;
+    text-indent: inherit;
+    text-align: left;
+}
+.MyResume
+{
+    margin: 15px;
+    box-shadow:0px 5px 15px 5px blue;
+}
+.aboutme
+{
+    margin:25px;
+    box-shadow:0px 5px 15px 5px blue;
+}
+.aboutme h3
+{
+    text-decoration:wavy;
+    font-size:24px;
+    font-weight: 300;
+    color: blue;
+    font-family: initial;
+}
+.aboutme h4
+{
+    text-decoration: underline;
+    font-size: 22px;
+    font-weight: 200;
+    color: blue;
+}
+.aboutme pre
+{
+    font-size: 24px;
+    font-family: initial;
+    font-weight:300;
+    text-decoration:wavy;
+    margin:5px;
+    text-indent: inherit;
+    text-align: center;
+}
+.educationskillscertification
+{
+    margin: 30px 45px 45px 30px;
+    background-color: skyblue;
+    box-shadow: 0px 30px 45px 0px blue;
+    padding: 5px 15px 25px 0px;
+    text-align: center;  
+}
+.educationskillscertification h5
+{
+    font-size: 20px;
+    font-family: initial;
+    font-weight: 300;
+    text-decoration: wavy;
+    color: blue;
+}
+.educationskillscertification p
+{
+    font-size: 24px;
+    font-family: initial;
+    font-weight:300;
+    text-decoration:wavy;
+    margin:5px;
+    text-indent: inherit;
+    text-align: center;  
+}
+.professional
+{
+    margin: 30px 45px 45px 30px;
+    background-color: skyblue;
+    box-shadow: 0px 30px 45px 0px blue;
+    padding: 5px 15px 25px 0px;
+}
+.CvAboutMe
+{
+    margin:25px;
+    box-shadow:0px 5px 15px 5px blue;
+}
+.contactme
+{
+    margin: 30px 45px 45px 30px;
+    background-color:skyblue;
+    background-position: right;
+    box-shadow: 0px 30px 45px 0px blue;
+    padding: 5px 15px 25px 0px;
+}
+.contactme h2
+{
+    font-size: 26px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    font-weight: 600;
+    margin: 5px;
+    text-align: left;
+}
+.phonenumber
+{
+    margin: 15px;
+    box-shadow:0px 5px 15px 5px blue; 
+}
+.phonenumber h4
+{
+    text-decoration: underline;
+    font-size: 22px;
+    font-weight: 200;
+    color: blue;
+    text-align:center;  
+}
+.phonenumber ol
+{
+    font-size: 24px;
+    font-family: initial;
+    font-weight:300;
+    text-decoration:wavy;
+    margin:5px;
+    text-indent: inherit;
+    text-align: center; 
+}
+.socialhandles
+{
+    margin: 15px;
+    box-shadow:0px 5px 15px 5px blue;  
+}
+.socialhandles h4
+{
+    text-decoration: underline;
+    font-size: 22px;
+    font-weight: 200;
+    color: blue;
+    text-align:center;
+}
+.socialhandles ol
+{
+    font-size: 24px;
+    font-family: initial;
+    font-weight:300;
+    text-decoration:wavy;
+    margin:5px;
+    text-indent: inherit;
+    text-align: center; 
+}
+.myEmailAddress
+{
+    margin: 15px;
+    box-shadow:0px 5px 15px 5px blue;
+}
+.myEmailAddress
+{
+    text-decoration: underline;
+    font-size: 22px;
+    font-weight: 200;
+    color: blue;
+    text-align:center;
+}
+.myEmailAddress a
+{
+    font-size: 24px;
+    font-family: initial;
+    font-weight:300;
+    text-decoration:wavy;
+    margin:5px;
+    text-indent: inherit;
+    text-align: center;
+}
+.AddressBook
+{
+    margin: 15px;
+    box-shadow:0px 5px 15px 5px blue;
+}
+
